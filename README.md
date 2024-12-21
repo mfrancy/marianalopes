@@ -15,4 +15,4 @@ Sou estudante de Análise e Desenvolvimento de Sistemas e atuo como Desenvolvedo
 
 
 
-[![Anurag's GitHub stats]()](https://github.com/mfrancy/github-readme-stats)
+
