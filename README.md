@@ -3,10 +3,13 @@
 Sou estudante de Análise e Desenvolvimento de Sistemas e atuo como Desenvolvedor Frontend Jr. em uma empresa do setor financeiro. Hoje utilizo HTML, CSS e JavaScript, e tenho experiência Bootstrap para criação de interfaces.
 
 🔭 Projetos
+
 Atualmente, estou trabalhando em projetos focados no desenvolvimento de aplicações web intuitivas e otimizadas.
 
 💬 Vamos conversar?
+
 Fique à vontade para entrar em contato comigo! 
+
 📧 LinkedIn: [https://www.linkedin.com/in/mariana-lopes-6b2a72155/]
 
 
