@@ -1,13 +1,12 @@
 ## Olá, meu nome é Mariana!
 
-Sou estudante de Análise e Desenvolvimento de Sistemas e atuo como Desenvolvedor Frontend Jr. em uma empresa do setor financeiro. Minha stack principal inclui HTML, CSS e JavaScript, com experiência em Bootstrap para criação de interfaces modernas e responsivas.
+Sou estudante de Análise e Desenvolvimento de Sistemas e atuo como Desenvolvedor Frontend Jr. em uma empresa do setor financeiro. Hoje utilizo HTML, CSS e JavaScript, e tenho experiência Bootstrap para criação de interfaces.
 
 🔭 Projetos
-Atualmente, estou trabalhando em projetos focados no desenvolvimento de aplicações web intuitivas e otimizadas. Estou sempre buscando melhorar minhas habilidades e aprender novas tecnologias para entregar soluções de qualidade.
+Atualmente, estou trabalhando em projetos focados no desenvolvimento de aplicações web intuitivas e otimizadas.
 
 💬 Vamos conversar?
-Fique à vontade para entrar em contato comigo! Adoro trocar ideias sobre tecnologia, projetos e boas práticas de desenvolvimento.
-
+Fique à vontade para entrar em contato comigo! 
 📧 LinkedIn: [https://www.linkedin.com/in/mariana-lopes-6b2a72155/]
 
 
