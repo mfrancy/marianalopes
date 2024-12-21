@@ -1,4 +1,4 @@
-##Olá, meu nome é Mariana!
+## Olá, meu nome é Mariana!
 
 Sou estudante de Análise e Desenvolvimento de Sistemas e atuo como Desenvolvedor Frontend Jr. em uma empresa do setor financeiro. Minha stack principal inclui HTML, CSS e JavaScript, com experiência em Bootstrap para criação de interfaces modernas e responsivas.
 
